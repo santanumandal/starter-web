@@ -6,8 +6,8 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-###
-Santanu is editing this file now
+## Santanu is editing this file now
 
-####
-4 hash for fourth comment
+## 2 hashes for 2nd comment onwards
+
+## Deployment
